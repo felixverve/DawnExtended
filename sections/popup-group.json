@@ -1,0 +1,13 @@
+{
+    "type": "custom.popups",
+    "name": "t:sections.popup-group.name",
+    "sections": {
+        "newsletter-popup": {
+            "type": "newsletter-popup",
+            "settings": {}
+        }
+    },
+    "order": [
+        "newsletter-popup"
+    ]
+}
